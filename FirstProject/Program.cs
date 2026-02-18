@@ -20,7 +20,7 @@ Console.WriteLine(Test());
 Console.WriteLine(Test());
 
 
-void calculate(string calcule)
+void calculate()
 {
     Console.WriteLine("Rentre ton calcul !");
     string response = Console.ReadLine();
@@ -36,11 +36,11 @@ void calculate(string calcule)
     {
         '+' => number1 + number2,
         '-' => number1 - number2,
-        '' => number1 * number2,
+        '*' => number1 * number2,
         '%' => number1 % number2
     };
 
     Console.WriteLine($"result : {result}");
 }
 
-calculate("3+5");
+calculate();
