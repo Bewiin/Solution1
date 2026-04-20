@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="Distributor/Distributor.csproj" />
+  <Project Path="FileConverter/FileConverter.csproj" Id="42522ecf-980f-45ef-9b47-f4afa270730c" />
   <Project Path="FirstProject/FirstProject.csproj" />
+  <Project Path="Playground/Playground.csproj" />
 </Solution>

@@ -1,0 +1,14 @@
+[
+  { "code": "32", "nom": "Coca-Cola",       "categorie": "boisson", "prix": 1.50, "stock": 120 },
+  { "code": "33", "nom": "Jus d'Orange",    "categorie": "boisson", "prix": 1.60, "stock": 85  },
+  { "code": "34", "nom": "Eau",             "categorie": "boisson", "prix": 0.90, "stock": 200 },
+  { "code": "35", "nom": "Café",            "categorie": "boisson", "prix": 1.20, "stock": 150 },
+  { "code": "10", "nom": "Mars",            "categorie": "snack",   "prix": 1.20, "stock": 60  },
+  { "code": "11", "nom": "Snicker",         "categorie": "snack",   "prix": 1.20, "stock": 45  },
+  { "code": "12", "nom": "Crunch",          "categorie": "snack",   "prix": 1.10, "stock": 30  },
+  { "code": "13", "nom": "Kit Kat",         "categorie": "snack",   "prix": 1.30, "stock": 55  },
+  { "code": "20", "nom": "Sandwich Jambon", "categorie": "repas",   "prix": 3.50, "stock": 15  },
+  { "code": "21", "nom": "Sandwich Thon",   "categorie": "repas",   "prix": 3.80, "stock": 10  },
+  { "code": "22", "nom": "Salade César",    "categorie": "repas",   "prix": 4.20, "stock": 8   },
+  { "code": "23", "nom": "Wrap Poulet",     "categorie": "repas",   "prix": 3.90, "stock": 12  }
+]

@@ -1,0 +1,26 @@
+{
+  "boissons": {
+    "32": "Coca-Cola",
+    "33": "Jus d'Orange",
+    "34": "Eau",
+    "35": null
+  },
+  "snacks": {
+    "10": "Mars",
+    "11": "Snicker",
+    "12": "Crunch"
+  },
+  "prices": [
+    { "code": "32", "price": 1.5 },
+    { "code": "33", "price": 1.6 },
+    { "code": "11", "price": 1.2 }
+  ],
+  "settings": {
+    "open": true,
+    "maxItems": 10
+  },
+  "specials": [
+    { "code": "32", "discount": 0.1 },
+    { "code": "11", "discount": 0.2 }
+  ]
+}

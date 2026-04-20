@@ -1,0 +1,10 @@
+code,nom,categorie,prix,stock
+32,Coca-Cola,boisson,1.50,120
+33,Jus d'Orange,boisson,1.60,85
+34,Eau,boisson,0.90,200
+10,Mars,snack,1.20,60
+11,Snicker,snack,1.20,45
+12,Crunch,snack,1.10,30
+20,Sandwich Jambon,repas,3.50,15
+21,Sandwich Thon,repas,3.80,10
+22,Salade César,repas,4.20,8

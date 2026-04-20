@@ -1,0 +1,23 @@
+[
+  {
+    "code": "34",
+    "nom": "Eau",
+    "categorie": "boisson",
+    "prix": "0.90",
+    "stock": "200"
+  },
+  {
+    "code": "32",
+    "nom": "Coca-Cola",
+    "categorie": "boisson",
+    "prix": "1.50",
+    "stock": "120"
+  },
+  {
+    "code": "33",
+    "nom": "Jus d\u0027Orange",
+    "categorie": "boisson",
+    "prix": "1.60",
+    "stock": "85"
+  }
+]
